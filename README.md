@@ -51,7 +51,7 @@ My Portfolio is a single-page application that showcases my web development proj
 No additional configuration is required for this project.
 
 ## Project links
-Github repository link : https://github.com/kylecoding1/portflio
+Github repository link : https://github.com/kylecoding1/portfolio
 
 Deployed Application link: https://kylecoding1.github.io/portfolio/
 
