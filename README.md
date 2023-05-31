@@ -38,7 +38,7 @@ My Portfolio is a single-page application that showcases my web development proj
 - Responsive design for optimal viewing on different devices
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/my-portfolio.git`
+1. Clone the repository: `git clone https://github.com/portfolio/my-portfolio.git`
 2. Navigate to the project directory: `cd my-portfolio`
 3. Install dependencies: `npm install`
 
